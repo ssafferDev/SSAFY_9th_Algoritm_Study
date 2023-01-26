@@ -10,6 +10,8 @@
 - 2503: 숫자 야구 https://www.acmicpc.net/problem/2503 <br> - 구현
 - 풀이
 
-
+### 도움이 될만한 연습문제
+- 백트래킹
+15649: N과 M 시리즈 (1~12) : https://www.acmicpc.net/problem/15649
 
 

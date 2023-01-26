@@ -3,7 +3,13 @@
 
 ## 1/26/목
 ### 브루트포스
-- 2503: 숫자 야구 https://www.acmicpc.net/problem/2503 <br> - 풀이: 구현
-- 1182: 부분 수열의 합 https://www.acmicpc.net/problem/1182 <br> - 풀이: DFS, 백트래킹
+- 1182: 부분 수열의 합 https://www.acmicpc.net/problem/1182 <br> - DFS, 백트래킹
+- 풀이1<br>
+- 풀이2<br>
+
+- 2503: 숫자 야구 https://www.acmicpc.net/problem/2503 <br> - 구현
+- 풀이
+
+
 
 

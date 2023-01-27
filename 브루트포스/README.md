@@ -8,7 +8,7 @@
 - 풀이2<br>
 
 - 2503: 숫자 야구 https://www.acmicpc.net/problem/2503 <br> - 구현
-- 풀이
+- 이정인 : https://velog.io/@sil_tr/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.-%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC
 
 ### 도움이 될만한 연습문제
 - 백트래킹

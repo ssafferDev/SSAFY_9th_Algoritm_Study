@@ -15,6 +15,7 @@
 - 송수현 : https://traveling-ferryboat-325.notion.site/2503-e0b2f50e35514084abedc24920bfd48f
 
 ## 1/30/월
+### 브루트포스
 - 3085: 사탕 게임 https://www.acmicpc.net/problem/3085 <br> - 구현
 - 이정인 : https://velog.io/@sil_tr/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.-%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84
 - 최진우 : 

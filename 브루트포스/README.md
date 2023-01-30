@@ -19,11 +19,13 @@
 ### 3085: 사탕 게임 https://www.acmicpc.net/problem/3085 <br> - 구현
 - 이정인 : https://velog.io/@sil_tr/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.-%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84
 - 최진우 : 
+https://www.notion.so/homesuki/64e623e1e9094700a71960b9dcff906d#3075d592a7e9464eb86cc20ca235cb95
 - 송수현 : 
 
 ### 1018: 체스판 다시 칠하기 https://www.acmicpc.net/problem/1018 <br> - 일반 브루트포스
 - 이정인 : https://velog.io/@sil_tr/%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.-%EC%B2%B4%EC%8A%A4%ED%8C%90-%EB%8B%A4%EC%8B%9C-%EC%B9%A0%ED%95%98%EA%B8%B0
 - 최진우 : 
+https://www.notion.so/homesuki/64e623e1e9094700a71960b9dcff906d#cda1304c0d30439aaf6b736dc83d133a
 - 송수현 : 
 
 ### 도움이 될만한 연습문제

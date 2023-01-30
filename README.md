@@ -1,5 +1,5 @@
 # SSAFY_9th_Algoritm_Study
-싸피 9기 15반 알고리즘 스터디
+싸피 9기 15반 알고리즘 스터디(월, 금)
 
 ## 1/26/목
 ### 브루트포스
@@ -12,6 +12,8 @@
 - 1018: 체스판 다시 칠하기 https://www.acmicpc.net/problem/1018 <br> - 풀이 : 일반 브루트포스
 
 ## 2/3/금
+### 회의록
+코테준비를 위해 프로그래머스 문제도 한번 풀어보기로 결정.
 ### 그리디, 브루트포스
 - 1931: 회의실 배정 https://www.acmicpc.net/problem/1931
 - 2212: 센서 https://www.acmicpc.net/problem/2212
